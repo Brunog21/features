@@ -3,7 +3,7 @@
 Funcionalidade: Computador
     Sendo um cliente
     Quero acessar o site
-    Para comprar um computador
+    Para ver um computador
 
 Cenário: Compra o computador
     Dado que esteja na página de busca
