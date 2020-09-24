@@ -2,8 +2,8 @@
 
 Funcionalidade: Login  
 
-Cenário: Fazer login
-    Dado que esteja na home do Site
+Cenário:Autenticação
+    Dado que esteja na home
     Quando selecionar em entrar
     E continar com o facebook
-    Então entre no paínel 
+    Então Confirme a identidade 
