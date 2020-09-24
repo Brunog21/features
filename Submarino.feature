@@ -6,4 +6,4 @@ Cenário:Autenticação
     Dado que esteja na home
     Quando selecionar em entrar
     E continar com o facebook
-    Então Confirme a identidade 
+    Então Uma foto será exibida
