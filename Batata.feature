@@ -3,6 +3,6 @@
 Funcionalidade: Batata
 
 Cenário: Batata 
-    Dado na pagina de busca
-    E pesquise por "batata"
+    Dado na pagina da home 
+    Quando pesquisar por "batata"
     Então abra a primeira imagem
