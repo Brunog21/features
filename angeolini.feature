@@ -6,6 +6,6 @@ Funcionalidade: Produto
     Para poder ver um produto
 
 Cenário: Abrir página
-    Dado que esteja na página de inicial
+    Dado que esteja na página inicial
     Quando abrir o primeiro departamento
     Então abra a página do primeiro produto
